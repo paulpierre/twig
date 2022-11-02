@@ -1,0 +1,7 @@
+clients/
+env/
+.DS_Store
+.json
+.csv
+.vscode
+.env
