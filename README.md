@@ -19,11 +19,12 @@ twig.py is a tool that helps web3 marketers find very engaged users within a com
 "Twig" is a portmanteau of "Twitter" and "Pig". [Truffle pigs or hogs](https://en.wikipedia.org/wiki/Truffle_hog) are domesticated animals used for finding truffle mushrooms. Twig surfaces a Twitter account's most engaged and therefore valuable users.
 
 ### 🔥 Features
-- **Date ranger filter** - Support for date ranges for when a target account's tweets were posted
-- **Caching** - Raw files are cached and loaded within the `client` directory
-- **Likes, Retweets, Commenters** - Get all metrics of engagement for a tweet on a per-user basis
-- **CSV output** - Save the metrics and dimensions all in a single spreadsheet so you can analyze later in real time as they're processed
-- **Rate limit** - Rate-limiting supported so you can just run it indefinitely on your machine
+- 🗓️ **Date ranger filter** - Support for date ranges for when a target account's tweets were posted
+- 🎒 **Caching** - Raw files are cached and loaded within the `client` directory
+- 📈 **Likes, Retweets, Commenters** - Get all metrics of engagement for a tweet on a per-user basis
+- 📎 **CSV output** - Save the metrics and dimensions all in a single spreadsheet so you can analyze later in real time as they're processed
+- 🚓 **Rate-limit regulator** - Rate-limiting supported so you can just run it indefinitely on your machine
+- 👌 **Simple** - No classes, no libraries, < 500 lines of functioning shit
 
 
 # 📝 How it works
