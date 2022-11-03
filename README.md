@@ -86,7 +86,7 @@ With all that said you can find the [API rate limits here](https://developer.twi
 # 📝 Data
 
 ### CSV output
-- `tweet_id` - id of the tweet, viewable by visiting https://twitter.com/`<target_account>`/status/`<tweet_id>`
+- `tweet_id` - id of the tweet, viewable by visiting https://twitter.com/ `<target_account>` /status/ `<tweet_id>`
 - `tweet_created_at` - when the tweet was posted
 - `tweet_text` - the contents of thet weet
 - `user_id` - the twitter user ID of the engaging user
