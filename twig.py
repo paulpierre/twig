@@ -6,7 +6,6 @@ import tweepy
 import json
 import os
 import pytz
-import sys
 import csv
 
 load_dotenv()
