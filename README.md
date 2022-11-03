@@ -49,7 +49,7 @@ twig.py is a tool that helps web3 marketers find very engaged users within a com
 >   - Total lifetime of comments
 
 ### 🤷 Why does this matter?
-> In web3 communities are everything. Even if your product is great, token utility phenomoenal, a project's community is highly dependent on community and stewards of said community.
+> In web3 communities are everything. Even if your product is great, token utility phenomenal, a project's community is highly dependent on community and stewards of said community.
 > 
 > Twig's purpose is to help you surface engaged users or "influencers" so they can be incentivized to help bootstrap and grow your web3 community. Twig can also be used for competitive analysis and research for understand what type of engagement posts are most effective.
 > 
