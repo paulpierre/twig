@@ -16,7 +16,7 @@
 
 twig.py is a tool that helps web3 marketers find very engaged users within a commmunity's twitter profile.
 
-"Twig" is a portmanteau of "Twitter" and "Pig". [Truffle pigs or hogs](https://en.wikipedia.org/wiki/Truffle_hog) are domesticated animals used for finding truffle mushrooms. Twig surfaces a Twitter account's most engaged and therefore valuable users.
+> ℹ️ "Twig" is a portmanteau of "Twitter" and "Pig". [Truffle pigs or hogs](https://en.wikipedia.org/wiki/Truffle_hog) are domesticated animals used for finding truffle mushrooms. Twig surfaces a Twitter account's most engaged and therefore valuable users.
 
 ### 🔥 Features
 - 🗓️ **Date ranger filter** - Support for date ranges for when a target account's tweets were posted
