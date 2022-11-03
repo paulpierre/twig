@@ -49,11 +49,11 @@ twig.py is a tool that helps web3 marketers find very engaged users within a com
 >   - Total lifetime of comments
 
 ### 🤷 Why does this matter?
-In web3 communities are everything. Even if your product is great, token utility phenomoenal, a project's community is highly dependent on community and stewards of said community.
-
-Twig's purpose is to help you surface engaged users or "influencers" so they can be incentivized to help bootstrap and grow your web3 community. Twig can also be used for competitive analysis and research for understand what type of engagement posts are most effective.
-
-If you're interested in advanced and industry-leading web3 user acquisition tools, check out [Conductive.ai](https://conductive.ai). If you're a buolder interested in the intersection of web3 and growth automation, [Conductive.ai is hiring!](https://hk.linkedin.com/company/conductiveai)
+> In web3 communities are everything. Even if your product is great, token utility phenomoenal, a project's community is highly dependent on community and stewards of said community.
+> 
+> Twig's purpose is to help you surface engaged users or "influencers" so they can be incentivized to help bootstrap and grow your web3 community. Twig can also be used for competitive analysis and research for understand what type of engagement posts are most effective.
+> 
+> If you're interested in advanced and industry-leading web3 user acquisition tools, check out [Conductive.ai](https://conductive.ai). If you're a buolder interested in the intersection of web3 and growth automation, [Conductive.ai is hiring!](https://hk.linkedin.com/company/conductiveai)
 
 # 📝 Get started
 
