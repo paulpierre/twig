@@ -21,7 +21,7 @@ twig.py is a tool that helps web3 marketers find very engaged users within a com
 
 Oink oink, there is nothing like the smell of some community growth alpha lurking in the swamps of Twitter
 
-# 📄 How it works
+# 📝 How it works
 
 ### What does it sniff for?
 1. Twig pulls all tweets in a time range from the target account
@@ -43,14 +43,14 @@ Oink oink, there is nothing like the smell of some community growth alpha lurkin
 
 ### Why does this matter?
 
-# 📄 Setup
+# 📝 Setup
 
-# 📄 Usage
+# 📝 Usage
 
-# 📄 Data
+# 📝 Data
 
-# 📄 TODO
+# 📝 TODO
 
-# 📄 Acknowledgements
+# 📝 Acknowledgements
 
-# 📄 Copyright
+# 📝 Copyright
