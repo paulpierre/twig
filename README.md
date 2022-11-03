@@ -81,7 +81,7 @@ TARGET_USER_NAME=<twitter handle of target account>
 ### Rate limits
 Let's be honest, Twitter has shit rate limits and pre-modern API design. I might eventually refactor this to do raw scraping to make raw data acquisition more efficient and faster.
 
-With all that said you can find the (API rate limits here)[https://developer.twitter.com/en/docs/twitter-api/rate-limits] twig.py handles adhereing to these limits for you automatically.
+With all that said you can find the [API rate limits here](https://developer.twitter.com/en/docs/twitter-api/rate-limits). twig.py handles adhereing to these limits for you automatically.
 
 # 📝 Data
 
