@@ -13,9 +13,13 @@
 ```
 
 # Introduction
----
+
 twig.py is a tool that helps web3 marketers find very engaged users within a commmunity's twitter profile
 
+### 🔥 Features
+- 
+-
+-
 ### Ah yes ..
 ![twig.py](https://media1.giphy.com/media/eP4zLawRGHJWt5ailn/giphy.gif?cid=ecf05e475zfqzn8erlr60p4bqv0ikof2sco7bnsbj7nwu2ut&rid=giphy.gif&ct=g)
 
