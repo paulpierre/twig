@@ -86,7 +86,7 @@ TARGET_USER_NAME=<twitter handle of target account>
 
 # 📊 Data
 
-### CSV column
+### CSV columns
 - `tweet_id` - id of the tweet, viewable by visiting https://twitter.com/ `<target_account>` /status/ `<tweet_id>`
 - `tweet_created_at` - when the tweet was posted
 - `tweet_text` - the contents of thet weet
