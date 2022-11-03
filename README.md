@@ -146,8 +146,8 @@ Each analysis gets its own folder for caching purposes. Additionally each date r
 Oink oink, there is nothing like the smell of some community growth alpha lurking in the swamps of Twitter
 
 # Acknowledgements
-- [Tweepy](https://www.tweepy.org/) - Twitter API library
-- [Conductive.ai](https://conductive.ai/) - Proof of concept built in a few hrs for [Conductive.ai](https://conductive.ai/) marketing team. Check us out, we're hiring!
+> - [Tweepy](https://www.tweepy.org/) - Twitter API library
+> - [Conductive.ai](https://conductive.ai/) - Proof of concept built in a few hrs for [Conductive.ai](https://conductive.ai/) marketing team. Check us out, we're hiring!
 
 
 # Copyright
