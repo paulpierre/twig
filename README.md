@@ -31,22 +31,22 @@ twig.py is a tool that helps web3 marketers find very engaged users within a com
 
 ### 🔎 What does it sniff for?
 
-1. Twig pulls all tweets in a time range from the target account
-   
-2. Twig then extracts users who engaged based on:
-  - 🧻 Paper engagement - Users who liked the tweet
-  - 😷 Super spreader - Users who retweeted the tweet
-  - 😈 Instigator - Users who commented on a tweet
-  - ☢️ Theremonuclear engagement - All of the above
-
-3. Twig stores this data in a single CSV for you containing metadata like
-  - Twitter handle
-  - Follower count
-  - Following count
-  - Do they follow the target account
-  - Total life time of likes
-  - Total lifetime of retweets
-  - Total lifetime of comments
+> 1. Twig pulls all tweets in a time range from the target account
+>   
+> 2. Twig then extracts users who engaged based on:
+>   - 🧻 Paper engagement - Users who liked the tweet
+>   - 😷 Super spreader - Users who retweeted the tweet
+>   - 😈 Instigator - Users who commented on a tweet
+>   - ☢️ Theremonuclear engagement - All of the above
+> 
+> 3. Twig stores this data in a single CSV for you containing metadata like
+>   - Twitter handle
+>   - Follower count
+>   - Following count
+>   - Do they follow the target account
+>   - Total life time of likes
+>   - Total lifetime of retweets
+>   - Total lifetime of comments
 
 ### 🤷 Why does this matter?
 In web3 communities are everything. Even if your product is great, token utility phenomoenal, a project's community is highly dependent on community and stewards of said community.
