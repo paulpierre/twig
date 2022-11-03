@@ -124,7 +124,6 @@ Each analysis gets its own folder for caching purposes. Additionally each date r
   │ └── ... etc.
   │
   ├── <TARGET_TWITTER_HANDLE>_engaged_users.csv (final output)
-  ├──
   ├── client.json (basic target twitter account metadata)
   └── tweets-<TARGET_TWITTER_HANDLE>-2022-08-04_2022-11-02.json (cache of tweets)
 ```
