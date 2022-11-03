@@ -136,7 +136,7 @@ Each analysis gets its own folder for caching purposes. Additionally each date r
 - Add SQLalchemy for db support
 - Add webserver for better analysis, UX and streaming progress
 - API support for webserver
-- CLI interface
+- CLI interface via Typer
 - Multiple developer account support for batch processing
 - Queuing and celery support for batch processing
 
