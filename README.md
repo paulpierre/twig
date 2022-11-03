@@ -16,7 +16,7 @@
 
 twig.py is a tool that helps web3 marketers find very engaged users within a commmunity's twitter profile.
 
-"Twig" is a portmanteau of "Twitter" and "Pig". (Truffle pigs or hogs)[https://en.wikipedia.org/wiki/Truffle_hog] are domesticated animals used for finding truffle mushrooms. Twig surfaces a Twitter account's most engaged and therefore valuable users.
+"Twig" is a portmanteau of "Twitter" and "Pig". [Truffle pigs or hogs](https://en.wikipedia.org/wiki/Truffle_hog) are domesticated animals used for finding truffle mushrooms. Twig surfaces a Twitter account's most engaged and therefore valuable users.
 
 ### 🔥 Features
 - **Date ranger filter** - Support for date ranges for when a target account's tweets were posted
@@ -52,7 +52,7 @@ In web3 communities are everything. Even if your product is great, token utility
 
 Twig's purpose is to help you surface engaged users or "influencers" so they can be incentivized to help bootstrap and grow your web3 community. Twig can also be used for competitive analysis and research for understand what type of engagement posts are most effective.
 
-If you're interested in advanced and industry-leading web3 user acquisition tools, check out (Conductive.ai)[https://conductive.ai]. If you're a buolder interested in the intersection of web3 and growth automation, (Conductive.ai is hiring!)[https://hk.linkedin.com/company/conductiveai]
+If you're interested in advanced and industry-leading web3 user acquisition tools, check out [Conductive.ai](https://conductive.ai). If you're a buolder interested in the intersection of web3 and growth automation, [Conductive.ai is hiring!](https://hk.linkedin.com/company/conductiveai)
 
 # 📝 Get started
 
@@ -60,7 +60,7 @@ If you're interested in advanced and industry-leading web3 user acquisition tool
 - Open your terminal of choice
 - Create your virtual environment `python -m venv env` or `python3 -m venv env` 
 - Install python dependencies `pip install -r requirements.txt` or `pip3 install -r requirements.txt`
-- Head to the (Twitter Developer portal)[https://developer.twitter.com/en/portal/dashboard] to signup and get your API credentials
+- Head to the [Twitter Developer portal](https://developer.twitter.com/en/portal/dashboard) to signup and get your API credentials
 - Create your environment file `touch .env` and edit it. Enter the following values:
 ```
 TWITTER_BEARER_TOKEN=
@@ -81,12 +81,12 @@ TARGET_USER_NAME=<twitter handle of target account>
 ### Rate limits
 Let's be honest, Twitter has shit rate limits and pre-modern API design. I might eventually refactor this to do raw scraping to make raw data acquisition more efficient and faster.
 
-With all that said you can find the [API rate limits here](https://developer.twitter.com/en/docs/twitter-api/rate-limits). twig.py handles adhereing to these limits for you automatically.
+With all that said you can find the (API rate limits here)[https://developer.twitter.com/en/docs/twitter-api/rate-limits]. twig.py handles adhereing to these limits for you automatically.
 
 # 📝 Data
 
 ### CSV output
-- `tweet_id` - id of the tweet, viewable by visiting https://twitter.com/`<target_account>`/status/`<tweet_id`
+- `tweet_id` - id of the tweet, viewable by visiting https://twitter.com/`<target_account>`/status/`<tweet_id>`
 - `tweet_created_at` - when the tweet was posted
 - `tweet_text` - the contents of thet weet
 - `user_id` - the twitter user ID of the engaging user
@@ -146,8 +146,8 @@ Each analysis gets its own folder for caching purposes. Additionally each date r
 Oink oink, there is nothing like the smell of some community growth alpha lurking in the swamps of Twitter
 
 # 📝 Acknowledgements
-- (Tweepy)[https://www.tweepy.org/] - Twitter API library
-- (Conductive.ai)[https://conductive.ai/] - Proof of concept built in a few hrs for (Conductive.ai)[https://conductive.ai/] marketing team. Check us out, we're hiring!
+- [Tweepy](https://www.tweepy.org/) - Twitter API library
+- [Conductive.ai](https://conductive.ai/) - Proof of concept built in a few hrs for [Conductive.ai](https://conductive.ai/) marketing team. Check us out, we're hiring!
 
 
 # 📝 Copyright
