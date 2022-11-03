@@ -23,7 +23,7 @@ Oink oink, there is nothing like the smell of some community growth alpha lurkin
 
 # 📝 How it works
 
-###🔎 What does it sniff for?
+### 🔎 What does it sniff for?
 ---
 1. Twig pulls all tweets in a time range from the target account
    
