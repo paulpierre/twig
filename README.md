@@ -49,11 +49,19 @@ Oink oink, there is nothing like the smell of some community growth alpha lurkin
 ### 🤷 Why does this matter?
 ---
 
-# 📝 Setup
+# 📝 Get started
 
-# 📝 Usage
+### Setup
+
+### Usage
+
 
 # 📝 Data
+
+### Directory structure
+- JSON
+- CSV
+
 
 # 📝 TODO
 
