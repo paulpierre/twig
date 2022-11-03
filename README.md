@@ -74,7 +74,7 @@ TARGET_USER_NAME=<twitter handle of target account>
 - Edit your `.env` file and set the twitter account you want to analyze in the `TARGET_USER_NAME` var
 - In the `main()` function, edit the values of `date_to` and `date_from` by default it analyzes tweets from the last 90 days
 - Simply run `python twig.py` or `python3 twig.py` and it will start doing its thing:
-![twig.py](https://https://raw.githubusercontent.com/paulpierre/twig/main/img/twig.png)
+![twig.py](https://github.com/paulpierre/twig/blob/main/img/twig.png?raw=true)
 - When it is complete you should see the following in the terminal:
 `✅ Finished process tweets, engaged users data saved to clients/<target_twitter_handle>/<client_handle>_engaged_users.csv`
 
